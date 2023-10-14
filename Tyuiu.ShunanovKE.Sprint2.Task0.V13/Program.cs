@@ -32,6 +32,7 @@ namespace Tyuiu.ShunanovKE.Sprint2.Task0.V13
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
+
             int x = 1905, y = 475;
             bool[] res = ds.GetCompareOperations(x, y);
             for (int i = 0; i < res.Length; i ++)

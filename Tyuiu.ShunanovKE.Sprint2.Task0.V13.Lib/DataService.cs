@@ -18,6 +18,7 @@ namespace Tyuiu.ShunanovKE.Sprint2.Task0.V13.Lib
             res[3] = x > y;
             res[4] = x <= y;
             res[5] = x >= y;
+
             return res;
         }
     }
